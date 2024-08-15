@@ -1,6 +1,6 @@
 # Hangman/El Ahorcado (Phone version)
 ## Observe: this is version 2
-Version 2 is on https://github.com/DanielDarwiche/spanska
+Version 1 is on https://github.com/DanielDarwiche/spanska
 
 This project is a simple React application to practice learning spanish(from swedish) by playing the classic game Hangman (El Ahorcado in spanish).
 Enter the right letters and win!
